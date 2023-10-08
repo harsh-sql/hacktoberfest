@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Harsh Goel](https://github.com/harsh-sql)
+- Place: Ghaziabad, Uttar Pradesh, India
+- Bio: Software Developer?
+- GitHub: [harsh-sql](https://github.com/harsh-sql)
